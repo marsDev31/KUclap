@@ -31,11 +31,11 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/KUclap/assets/icons/mstile-150x150.png"
   },
   {
-    "revision": "d3162a480e0abe60f114",
-    "url": "/KUclap/bundle.39b36.esm.js"
+    "revision": "f2a9e867e318b3318714",
+    "url": "/KUclap/bundle.3675b.esm.js"
   },
   {
-    "revision": "ae1a991b759dedbeb8801d191a75030b",
+    "revision": "bc0500646440d202ce467cb07ad15a4c",
     "url": "/KUclap/index.html"
   },
   {
@@ -43,11 +43,11 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/KUclap/polyfills.7a9c4.esm.js"
   },
   {
-    "revision": "c2827ffa9e49f9feb18b",
-    "url": "/KUclap/route-Home.chunk.22ea6.esm.js"
+    "revision": "e4eb826b358f2a2fccf0",
+    "url": "/KUclap/route-Home.chunk.13dca.esm.js"
   },
   {
-    "revision": "c2827ffa9e49f9feb18b",
+    "revision": "e4eb826b358f2a2fccf0",
     "url": "/KUclap/route-Home.chunk.d8f82.css"
   }
 ]);
