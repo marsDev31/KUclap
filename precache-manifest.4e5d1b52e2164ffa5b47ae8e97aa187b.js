@@ -31,11 +31,11 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/KUclap/assets/icons/mstile-150x150.png"
   },
   {
-    "revision": "e2e8d3bde67307537393",
-    "url": "/KUclap/bundle.e2e8d.js"
+    "revision": "4632344acbf8118e7c2f",
+    "url": "/KUclap/bundle.46323.js"
   },
   {
-    "revision": "b6dba16d0ff4deaa4920b52c4bd4d24f",
+    "revision": "65f92ca4bb804e1706896f5a86fa2146",
     "url": "/KUclap/index.html"
   },
   {
@@ -55,7 +55,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/KUclap/sw-debug.js"
   },
   {
-    "revision": "8f14f47a53be37b9e4fc9e7901418545",
+    "revision": "1a46342e4a6f65b99f0997afb692c075",
     "url": "/KUclap/sw-esm.js"
   },
   {

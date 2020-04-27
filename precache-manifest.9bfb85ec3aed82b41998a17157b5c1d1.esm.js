@@ -31,11 +31,11 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/KUclap/assets/icons/mstile-150x150.png"
   },
   {
-    "revision": "e2e8d3bde67307537393",
-    "url": "/KUclap/bundle.e3b6f.esm.js"
+    "revision": "4632344acbf8118e7c2f",
+    "url": "/KUclap/bundle.042ca.esm.js"
   },
   {
-    "revision": "b6dba16d0ff4deaa4920b52c4bd4d24f",
+    "revision": "65f92ca4bb804e1706896f5a86fa2146",
     "url": "/KUclap/index.html"
   },
   {
