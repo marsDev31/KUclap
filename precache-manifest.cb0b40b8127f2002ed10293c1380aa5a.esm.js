@@ -31,35 +31,23 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/assets/icons/mstile-150x150.png"
   },
   {
-    "revision": "a352bf3360d6b52b71ad",
-    "url": "/bundle.a352b.js"
+    "revision": "ea6bb75e683c00cbf866",
+    "url": "/bundle.fc8d8.esm.js"
   },
   {
-    "revision": "c5a0658ba505460ecab0c8779f65b640",
+    "revision": "260e4868824e01776a189e44c732d421",
     "url": "/index.html"
   },
   {
     "revision": "1a596390ebcee0e66821",
-    "url": "/polyfills.1a596.js"
+    "url": "/polyfills.851f4.esm.js"
   },
   {
     "revision": "b05074cc0a77d1c98d5b",
-    "url": "/route-Home.chunk.b0507.js"
+    "url": "/route-Home.chunk.2dfcd.esm.js"
   },
   {
     "revision": "b05074cc0a77d1c98d5b",
     "url": "/route-Home.chunk.d8f82.css"
-  },
-  {
-    "revision": "144c6ff1323d2d15182a7d2af08d027e",
-    "url": "/sw-debug.js"
-  },
-  {
-    "revision": "671a1ebfbd4e164829e067edd3b846a0",
-    "url": "/sw-esm.js"
-  },
-  {
-    "revision": "bfc5bd18885255982238f3628770f48d",
-    "url": "/sw.js"
   }
 ]);
