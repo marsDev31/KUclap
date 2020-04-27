@@ -31,35 +31,23 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/KUclap/assets/icons/mstile-150x150.png"
   },
   {
-    "revision": "4632344acbf8118e7c2f",
-    "url": "/KUclap/bundle.46323.js"
+    "revision": "d3162a480e0abe60f114",
+    "url": "/KUclap/bundle.39b36.esm.js"
   },
   {
-    "revision": "65f92ca4bb804e1706896f5a86fa2146",
+    "revision": "ae1a991b759dedbeb8801d191a75030b",
     "url": "/KUclap/index.html"
   },
   {
     "revision": "1c45d68225e51222852a",
-    "url": "/KUclap/polyfills.1c45d.js"
+    "url": "/KUclap/polyfills.7a9c4.esm.js"
   },
   {
-    "revision": "b05074cc0a77d1c98d5b",
-    "url": "/KUclap/route-Home.chunk.b0507.js"
+    "revision": "c2827ffa9e49f9feb18b",
+    "url": "/KUclap/route-Home.chunk.22ea6.esm.js"
   },
   {
-    "revision": "b05074cc0a77d1c98d5b",
+    "revision": "c2827ffa9e49f9feb18b",
     "url": "/KUclap/route-Home.chunk.d8f82.css"
-  },
-  {
-    "revision": "144c6ff1323d2d15182a7d2af08d027e",
-    "url": "/KUclap/sw-debug.js"
-  },
-  {
-    "revision": "1a46342e4a6f65b99f0997afb692c075",
-    "url": "/KUclap/sw-esm.js"
-  },
-  {
-    "revision": "d49bf5602d2eea483c694648ca78aee2",
-    "url": "/KUclap/sw.js"
   }
 ]);
