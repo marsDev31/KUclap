@@ -32,34 +32,22 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   },
   {
     "revision": "5cd264948068af1983ed",
-    "url": "/KUclap/bundle.5cd26.js"
+    "url": "/KUclap/bundle.c6684.esm.js"
   },
   {
-    "revision": "c38b6311785e613b410bb7fb8f7e5a6a",
+    "revision": "73f9a1d04e5c60f917145350509fc3ea",
     "url": "/KUclap/index.html"
   },
   {
     "revision": "1c45d68225e51222852a",
-    "url": "/KUclap/polyfills.1c45d.js"
+    "url": "/KUclap/polyfills.7a9c4.esm.js"
+  },
+  {
+    "revision": "ef66d297610e61912ad3",
+    "url": "/KUclap/route-Home.chunk.259fe.esm.js"
   },
   {
     "revision": "ef66d297610e61912ad3",
     "url": "/KUclap/route-Home.chunk.d8f82.css"
-  },
-  {
-    "revision": "ef66d297610e61912ad3",
-    "url": "/KUclap/route-Home.chunk.ef66d.js"
-  },
-  {
-    "revision": "144c6ff1323d2d15182a7d2af08d027e",
-    "url": "/KUclap/sw-debug.js"
-  },
-  {
-    "revision": "5206733cb25cece27c7ec2ff065e44aa",
-    "url": "/KUclap/sw-esm.js"
-  },
-  {
-    "revision": "d49bf5602d2eea483c694648ca78aee2",
-    "url": "/KUclap/sw.js"
   }
 ]);
