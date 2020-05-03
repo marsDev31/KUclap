@@ -39,7 +39,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/KUclap/bundle.a4ce0.esm.js"
   },
   {
-    "revision": "7be67b4e2053c8fac2d731ea3d5458b4",
+    "revision": "2f1521b2a50aec0a0f4fcae7fa6919eb",
     "url": "/KUclap/index.html"
   },
   {

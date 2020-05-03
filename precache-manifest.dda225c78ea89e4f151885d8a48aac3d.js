@@ -39,7 +39,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/KUclap/bundle.6d888.js"
   },
   {
-    "revision": "7be67b4e2053c8fac2d731ea3d5458b4",
+    "revision": "2f1521b2a50aec0a0f4fcae7fa6919eb",
     "url": "/KUclap/index.html"
   },
   {
@@ -59,7 +59,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/KUclap/sw-debug.js"
   },
   {
-    "revision": "35543d6a17fd23f8063db73db6d846d6",
+    "revision": "d0ff9264c890873f63ad9dae969af840",
     "url": "/KUclap/sw-esm.js"
   },
   {
