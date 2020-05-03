@@ -35,11 +35,11 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/KUclap/assets/img/og-image.png"
   },
   {
-    "revision": "6d8880980ff770a0e826",
-    "url": "/KUclap/bundle.a4ce0.esm.js"
+    "revision": "4098e078c76172348315",
+    "url": "/KUclap/bundle.4fd21.esm.js"
   },
   {
-    "revision": "1ae3950e15c1cf0fba3edd01f29f1ac4",
+    "revision": "b2451758bcd58213c671d2ce87d134b0",
     "url": "/KUclap/index.html"
   },
   {
@@ -47,11 +47,11 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/KUclap/polyfills.7a9c4.esm.js"
   },
   {
-    "revision": "e9698b29de9acd5c41c6",
-    "url": "/KUclap/route-Home.chunk.74c6c.esm.js"
+    "revision": "d0e90c62c0924d61a0a4",
+    "url": "/KUclap/route-Home.chunk.7f5a8.esm.js"
   },
   {
-    "revision": "e9698b29de9acd5c41c6",
+    "revision": "d0e90c62c0924d61a0a4",
     "url": "/KUclap/route-Home.chunk.d8f82.css"
   }
 ]);

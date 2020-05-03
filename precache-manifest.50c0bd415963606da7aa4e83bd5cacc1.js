@@ -35,11 +35,11 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/KUclap/assets/img/og-image.png"
   },
   {
-    "revision": "6d8880980ff770a0e826",
-    "url": "/KUclap/bundle.6d888.js"
+    "revision": "4098e078c76172348315",
+    "url": "/KUclap/bundle.4098e.js"
   },
   {
-    "revision": "1ae3950e15c1cf0fba3edd01f29f1ac4",
+    "revision": "b2451758bcd58213c671d2ce87d134b0",
     "url": "/KUclap/index.html"
   },
   {
@@ -47,19 +47,19 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/KUclap/polyfills.1c45d.js"
   },
   {
-    "revision": "e9698b29de9acd5c41c6",
-    "url": "/KUclap/route-Home.chunk.d8f82.css"
+    "revision": "d0e90c62c0924d61a0a4",
+    "url": "/KUclap/route-Home.chunk.d0e90.js"
   },
   {
-    "revision": "e9698b29de9acd5c41c6",
-    "url": "/KUclap/route-Home.chunk.e9698.js"
+    "revision": "d0e90c62c0924d61a0a4",
+    "url": "/KUclap/route-Home.chunk.d8f82.css"
   },
   {
     "revision": "144c6ff1323d2d15182a7d2af08d027e",
     "url": "/KUclap/sw-debug.js"
   },
   {
-    "revision": "a370aa24116dcb5ad8f803f08fa208a5",
+    "revision": "566dd34d68113aa865dc1aa2d2e27327",
     "url": "/KUclap/sw-esm.js"
   },
   {
