@@ -47,15 +47,15 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/KUclap/assets/themes/light.js"
   },
   {
-    "revision": "74462a6bf2235d89c2bb",
-    "url": "/KUclap/bundle.74462.js"
+    "revision": "b7493c3064b80345953c",
+    "url": "/KUclap/bundle.b7493.js"
   },
   {
-    "revision": "74462a6bf2235d89c2bb",
+    "revision": "b7493c3064b80345953c",
     "url": "/KUclap/bundle.d8f82.css"
   },
   {
-    "revision": "c4b66096fcb9f87f5825c2bb3c8d6570",
+    "revision": "2137c64a06f6541788f2b087e318b2bc",
     "url": "/KUclap/index.html"
   },
   {
@@ -67,7 +67,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/KUclap/sw-debug.js"
   },
   {
-    "revision": "4bffd03dbd9b7c089822c2a16f5053d2",
+    "revision": "00245c974f4fed405e55e1fa230dfe94",
     "url": "/KUclap/sw-esm.js"
   },
   {
