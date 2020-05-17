@@ -35,15 +35,15 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/KUclap/assets/img/meta-og-image.png"
   },
   {
-    "revision": "b7493c3064b80345953c",
-    "url": "/KUclap/bundle.66064.esm.js"
+    "revision": "a996d4ba4f9bf16667b4",
+    "url": "/KUclap/bundle.321ed.esm.js"
   },
   {
-    "revision": "b7493c3064b80345953c",
+    "revision": "a996d4ba4f9bf16667b4",
     "url": "/KUclap/bundle.d8f82.css"
   },
   {
-    "revision": "2137c64a06f6541788f2b087e318b2bc",
+    "revision": "92fead17efd3e2790c7200a056a1b70f",
     "url": "/KUclap/index.html"
   },
   {
