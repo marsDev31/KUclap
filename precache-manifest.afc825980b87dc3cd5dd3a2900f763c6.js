@@ -35,31 +35,39 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/KUclap/assets/img/meta-og-image.png"
   },
   {
-    "revision": "f2e06689ca33cf67406d",
-    "url": "/KUclap/bundle.f2e06.js"
+    "revision": "08e415355886b88aba221646ca79b938",
+    "url": "/KUclap/assets/themes/dark.js"
   },
   {
-    "revision": "80873026463c6a425f10cee7af4a8557",
+    "revision": "60c5e3bcbef0e1b9285c694be57f8884",
+    "url": "/KUclap/assets/themes/index.js"
+  },
+  {
+    "revision": "44a17de599781ee689a7a813de4720c3",
+    "url": "/KUclap/assets/themes/light.js"
+  },
+  {
+    "revision": "74462a6bf2235d89c2bb",
+    "url": "/KUclap/bundle.74462.js"
+  },
+  {
+    "revision": "74462a6bf2235d89c2bb",
+    "url": "/KUclap/bundle.d8f82.css"
+  },
+  {
+    "revision": "c4b66096fcb9f87f5825c2bb3c8d6570",
     "url": "/KUclap/index.html"
   },
   {
-    "revision": "1c45d68225e51222852a",
-    "url": "/KUclap/polyfills.1c45d.js"
-  },
-  {
-    "revision": "dc651ec0bd6a25ae7f4c",
-    "url": "/KUclap/route-Home.chunk.d8f82.css"
-  },
-  {
-    "revision": "dc651ec0bd6a25ae7f4c",
-    "url": "/KUclap/route-Home.chunk.dc651.js"
+    "revision": "fb3d544bb134cf74d423",
+    "url": "/KUclap/polyfills.fb3d5.js"
   },
   {
     "revision": "144c6ff1323d2d15182a7d2af08d027e",
     "url": "/KUclap/sw-debug.js"
   },
   {
-    "revision": "f80c6f9ee8884d545d782d71be7d9c00",
+    "revision": "4bffd03dbd9b7c089822c2a16f5053d2",
     "url": "/KUclap/sw-esm.js"
   },
   {
